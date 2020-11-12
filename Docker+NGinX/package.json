@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_tutorial_server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon node index.js"
+  },
+  "description": "NodeJS Tutorial Server",
+  "author": {
+    "name": "Neo"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^2.0.4",
+    "uuid": "^3.2.1"
+  }
+}
